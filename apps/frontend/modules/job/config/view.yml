@@ -1,0 +1,7 @@
+## YAML Template.
+---
+indexSuccess:
+  stylesheet: [jobs.css]
+
+  showSuccess:
+    stylesheets: [job.css]
