@@ -19,6 +19,14 @@ homepage:
   url:   /
   param: { module: job, action: index }
 
+#default_index:
+#  url: /module
+#  param: { action: index }
+
+#default:
+#  url: /:module/:action/*
+
+
 # generic rules
 # please, remove them by adding more specific rules
 #default_index:
